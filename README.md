@@ -1,2 +1,2 @@
-# UnencryptedWarnings
-displays an alert when visiting non-https webpages
+#Unencrypted Warnings
+display a warning if browsing non-https webpages

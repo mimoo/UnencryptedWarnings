@@ -1,0 +1,15 @@
+{
+  "title": "Unencrypted Warnings",
+  "name": "firefoxpluginunencryptedwarnings",
+  "version": "0.0.1",
+  "description": "display a warning if browsing non-https webpages",
+  "main": "index.js",
+  "author": "David Wong",
+  "engines": {
+    "firefox": ">=38.0a1"
+  },
+  "license": "MIT",
+  "keywords": [
+    "jetpack"
+  ]
+}
